@@ -1,0 +1,1 @@
+celery worker --app=proj.tasks --loglevel=debug --logfile=/tmp/celery.log

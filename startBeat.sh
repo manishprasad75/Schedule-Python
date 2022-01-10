@@ -1,0 +1,1 @@
+celery --app=proj.tasks --logfile=/tmp/rounds_celery_beat.log beat
